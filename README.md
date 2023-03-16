@@ -1,2 +1,0 @@
-# ReactSolutions
-Firestore Database
